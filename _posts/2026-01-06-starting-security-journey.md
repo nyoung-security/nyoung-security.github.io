@@ -28,7 +28,7 @@ I'm following a structured 9-12 month learning path to transition into a paid re
 
 **Months 7-12:** Building expertise and job hunting - portfolio development, continued learning, applications
 
-## What I've Done Yesterday
+## What I Did Yesterday
 
 - Completed first SQL injection labs on PortSwigger Web Security Academy
 - Completed file path traversal lab
