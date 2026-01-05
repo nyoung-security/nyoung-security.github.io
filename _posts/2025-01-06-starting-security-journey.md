@@ -21,8 +21,11 @@ After working as a mechanical engineer and running various ventures over the pas
 I'm following a structured 9-12 month learning path to transition into a paid remote security position:
 
 **Months 1-2:** Foundation building - learning core web vulnerabilities through PortSwigger Academy and TryHackMe
+
 **Months 3-4:** Deepening technical skills - code reading, system architecture, practice applications  
+
 **Months 5-6:** Real-world practice - bug bounties, first certification (eJPT)
+
 **Months 7-12:** Building expertise and job hunting - portfolio development, continued learning, applications
 
 ## What I've Done Yesterday
