@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting My Security Journey - Day 1"
-date: 2025-01-06
+date: 2026-01-06
 categories: learning security
 ---
 
