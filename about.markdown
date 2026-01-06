@@ -23,6 +23,7 @@ I'm drawn to security work because it combines:
 - Systems thinking and understanding how components interact
 - Remote work flexibility
 - Clear career path with strong job demand
+- Providing a beneficial service for society
 
 ## The Goal
 
